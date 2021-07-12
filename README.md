@@ -15,7 +15,7 @@ Sample REST API using Node JS and Express
 ```
 git clone https://github.com/Ahmad-Chebbo/Node-Express-CRUD-API
 
-cd Node_Express_CRUD_API
+cd Node-Express-CRUD-API
 ```
 
 *Install dependencies:*
