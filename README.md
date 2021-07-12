@@ -27,7 +27,7 @@ npm install && npm start
 ## Built with
 
 -   **[Express - Node.js web application framework](https://exporessjs.com/)**
--   **[Node JS](shttps://nodejs.org)**
+-   **[Node JS](https://nodejs.org/)**
 
 
 ## Browser / OS / Device support
